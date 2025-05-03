@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: flex-start; 
-    background-image: url('cattt.jpg');
+    background-image: url('assets/cattt.jpg');
     background-size: cover; 
     background-position: center;
     height: 100vh; 
